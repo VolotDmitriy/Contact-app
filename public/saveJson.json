@@ -1,0 +1,1845 @@
+[
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "surname": "Randal",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "JessicaRandal@gmail.com",
+    "location": "Paris, France",
+    "description": "A Pearson in colorful attire, exuding perpetual curiosity, approaches each day with a friendly smile and a passion for knowledge.",
+    "tags": ["Friend", "Business"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Vasil",
+    "surname": "Kit",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "VasilKit@gmail.com",
+    "location": "Paris, France",
+    "description": "With vibrant energy, the bespectacled Pearson explores the world, donning quirky ties and a warm smile that reflects their love for learning.",
+    "tags": ["Friend"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ragul",
+    "surname": "Usatuy",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "RagulUsatuy@gmail.com",
+    "location": "Paris, France",
+    "description": "Navigating life with perpetual curiosity, the book-loving Pearson wears quirky ties and shares a friendly demeanor, embodying a passion for education.",
+    "tags": ["Family"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Ivan",
+    "surname": "Ivanuch",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "IvanIvanuch@gmail.com",
+    "location": "Paris, France",
+    "description": "In vibrant hues and bespectacled charm, the Pearson embraces each day with a warm smile, fueled by perpetual curiosity and a love for lifelong learning.",
+    "tags": ["Whore"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "EmmaThompson@gmail.com",
+    "location": "Los Angeles, USA",
+    "description": "A film buff and aspiring director, Emma explores the world of storytelling, blending creativity with a touch of Hollywood glamour.",
+    "tags": ["Friend", "Film"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Chen",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "DavidChen@gmail.com",
+    "location": "Beijing, China",
+    "description": "Tech guru David delves into cutting-edge innovations, balancing coding sessions with a passion for traditional Chinese calligraphy.",
+    "tags": ["Friend", "Tech"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Sophie",
+    "surname": "Davis",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "SophieDavis@gmail.com",
+    "location": "Paris, France",
+    "description": "An aspiring chef, Sophie creates culinary wonders, infusing her dishes with flavors inspired by her multicultural experiences.",
+    "tags": ["Friend", "Food"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Carlos",
+    "surname": "Mendez",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "CarlosMendez@gmail.com",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Passionate about Samba, Carlos brings the rhythm to life, dancing through the streets with joy and infectious energy.",
+    "tags": ["Friend", "Music"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  },
+  {
+    "name": "Elena",
+    "surname": "Kim",
+    "image": "/public/images/avatar-jessica.jpeg",
+    "email": "ElenaKim@gmail.com",
+    "location": "Seoul, South Korea",
+    "description": "A language enthusiast, Elena explores the beauty of words, mastering multiple languages and embracing diverse cultures.",
+    "tags": ["Friend", "Languages"],
+    "links": [
+      { "linkName": "Github", "link": "https://github.com/VolotDmitriy" },
+      { "linkName": "Frontend Mentor", "link": "https://www.frontendmentor.io/profile/VolotDmitriy" },
+      { "linkName": "LinkedIn", "link": "https://ua.linkedin.com/" },
+      { "linkName": "Twitter", "link": "https://twitter.com/?lang=ru" },
+      { "linkName": "Instagram", "link": "https://www.instagram.com/volotkovskiy.d.04/" }
+    ]
+  }
+
+]
+
+

@@ -1,0 +1,50 @@
+.interaction-element{
+  height: 40px;
+
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+
+  .search-input{
+    width: 100px;
+    flex-grow: 1;
+    padding-inline: 10px;
+
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    color: hsl(0, 0%, 100%);
+    background: hsl(0, 0%, 20%);
+
+    border: none;
+    border-radius: 10px;
+
+    &:focus{
+      outline: 2px solid hsl(75, 94%, 57%);
+    }
+  }
+  .button {
+    width: 100px;
+    height: 40px;
+
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    color: hsl(0, 0%, 100%);
+    background: hsl(0, 0%, 20%);
+
+    border: none;
+    border-radius: 10px;
+
+    &:hover{
+      background: hsl(75, 94%, 57%);
+      color: hsl(0, 0%, 20%);
+    }
+    .tag{
+
+    }
+    .add{
+
+    }
+  }
+
+}
